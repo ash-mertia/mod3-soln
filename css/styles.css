@@ -1,0 +1,24 @@
+#brand
+{font-size: 2.5em;
+ color: black;}
+#Section1
+ {background: #fdffbd;
+  margin: 10px;}
+#Section2
+ {background: #f0eae5;
+  margin: 10px;}
+#Section3
+ {background: #afc9c9;
+  margin: 10px;}
+#header-nav
+{background-color: #d2c0c0;}
+li
+{text-align: center;
+}
+.subheading
+{text-align: center;
+ font-size: 1.3em;
+ font-weight: bold;
+ color: black;}
+#nav-list
+{background-color: #f0eae5}
